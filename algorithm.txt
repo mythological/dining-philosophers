@@ -1,0 +1,10 @@
+while True:
+
+	think for a while
+	lock left chop
+	lock right chop
+	eat for a while
+	unlock left chop
+	unlock right chop
+
+
